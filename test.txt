@@ -7,6 +7,13 @@ Executing a command has failed.
 You must edit all merge conflicts and then mark them as resolved using git add
 
 
+----- 19-01-2015 -----
+This is a test comment trying to update my local branch
+If occur any problem, this may be resolved with merge tool.
+----------------------
+
+========================
+
 Do you want to continue the rebase?
 
 The repository in 'rebasing' state. Instead of committing, you may continue the rebase.
@@ -15,9 +22,6 @@ Executing a command has failed.
 
 You must edit all merge conflicts and then mark them as resolved using git add
 
------ 19-01-2015 -----
-This is a test comment trying to update my local branch
-If occur any problem, this may be resolved with merge tool.
-----------------------
+========================
 
 
