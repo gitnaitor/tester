@@ -1,0 +1,8 @@
+Do you want to continue the rebase?
+
+The repository in 'rebasing' state. Instead of committing, you may continue the rebase.
+
+
+Executing a command has failed.
+
+You must edit all merge conflicts and then mark them as resolved using git add
